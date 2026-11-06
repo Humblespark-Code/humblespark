@@ -1,0 +1,13 @@
+.thumbnail-row{
+  position: relative;
+}
+
+.video-time{
+  position:absolute;
+  bottom: 10px;
+  right: 5px;
+  background-color: black;
+  color: whitesmoke;
+  font-size: 12px;
+  padding:  5px;
+}
